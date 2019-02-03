@@ -644,10 +644,10 @@
             text: {
               autoStyleContainer: true,
               style: {
-                color: "#fff",
+                color: "#000",
                 position: 'absolute',
-                left: '40%',
-                top: '50%'
+                left: '35%',
+                top: '40%'
               }
             },
             svgStyle: {
@@ -690,10 +690,10 @@
             text: {
               autoStyleContainer: true,
               style: {
-                color: "#fff",
+                color: "#000",
                 position: 'absolute',
-                left: '40%',
-                top: '50%'
+                left: '35%',
+                top: '40%'
               }
             },
             svgStyle: {
